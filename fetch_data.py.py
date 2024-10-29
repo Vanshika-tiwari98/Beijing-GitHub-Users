@@ -3,7 +3,7 @@ import csv
 import time
 
 # GitHub API token
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'TOP SECRET TOKEN DON'T TOUCH'
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 # Helper function to clean up company names
